@@ -1,0 +1,8 @@
+{
+  "name": "AI Phone Recommender",
+  "description": "An interactive phone comparison table that uses AI to provide personalized recommendations based on your preferences. Describe what you're looking for, and get tailored suggestions with justifications and product images.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
